@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/github/last-commit/rafaasimi/esports-nextlevelweek?color=8B5CF6">
 </p>
 
-## 🔖 Descrição
+## 🔖 Descrição 
 <p>Desenvolvimento de uma aplicação para que os jogadores possam encontrar duos para jogarem juntos.<p>
 
 <p>Durante essa Next Level Week, desenvolvemos 3 projetos, nesse repositório está armazenado: Servidor, Web e Mobile.
