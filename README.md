@@ -1,9 +1,9 @@
 <p align='center'><img width='150' src="./.github/logo-nlw-esports.svg"/></p>
 <h1 align='center'>Next Level Week eSports</h1>
 <p align='center'>
-<img src="https://img.shields.io/github/repo-size/rafaasimi/esports-nextlevelweek?color=8B5CF6">
-<img src="https://img.shields.io/github/languages/count/rafaasimi/esports-nextlevelweek?color=8B5CF6">
-<img src="https://img.shields.io/github/last-commit/rafaasimi/esports-nextlevelweek?color=8B5CF6">
+<img src="https://img.shields.io/github/repo-size/Savio-Anjos/nlw-eSports?color=8B5CF6">
+<img src="https://img.shields.io/github/languages/count/Savio-Anjos/nlw-eSports?color=8B5CF6">
+<img src="https://img.shields.io/github/last-commit/Savio-Anjos/nlw-eSports?color=8B5CF6">
 </p>
 
 ## 🔖 Descrição 
